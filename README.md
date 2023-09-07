@@ -1,6 +1,6 @@
 # Jessie's Portfolio
 
-This page includes various types of portfolios created by Jessie Dima KusumaWardhani. Connect with [me](https://www.linkedin.com/in/jessie-kusumawardhani-6810a714b/)!:blush:
+This page includes various types of portfolios created by Jessie Dima KusumaWardhani. Connect with [me](https://www.linkedin.com/in/jessie-kusumawardhani-6810a714b/)! :blush:
 
 ### Data analytics portfolio
 
