@@ -5,4 +5,4 @@ Portofolio yang tercantum di sini dibuat menggunakan Microsoft Excel, Google Spr
 
 [Profil LinkedIn](https://www.linkedin.com/in/jessie-kusumawardhani-6810a714b/)
 
-## Laporan Analisis Data Regulasi Baru Lalu Lintas NHTSA
+## [Laporan Analisis Data Regulasi Baru Lalu Lintas NHTSA](https://github.com/jessie-kusumawardhani/jessie-kusumawardhani.github.io/blob/main/NHTSA-Report.md)
