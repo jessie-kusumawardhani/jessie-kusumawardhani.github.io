@@ -16,6 +16,6 @@ This page includes various types of portfolios created by Jessie Dima KusumaWard
    4. [Product recommendation/review](https://brightside.me/articles/upgrade-your-beauty-routine-with-these-12-effective-products-812887/)
 
 ### Translations
-   1. [Humanitarian](https://drive.google.com/drive/u/0/folders/1HKVlAzUm4GzUmCHZG6L_Uv5LDNjIN-C1)
-   2. [Video subtitle](https://drive.google.com/drive/u/0/folders/1HKVlAzUm4GzUmCHZG6L_Uv5LDNjIN-C1)
-   3. [Report](https://drive.google.com/drive/u/0/folders/1HKVlAzUm4GzUmCHZG6L_Uv5LDNjIN-C1)
+   1. [Humanitarian](https://drive.google.com/file/d/1gnhGNvb_cR-btI8ypNim8wrlcR3CaQuI/view?usp=sharing)
+   2. [Video subtitle](https://drive.google.com/file/d/1iVecJivHKjWA1i6lD9kKQ-ExxK-PA6qi/view?usp=sharing)
+   3. [Report](https://drive.google.com/file/d/1EjEVOyB1kyZdF_2CFXJwLbiDJu_8RnS5/view?usp=sharing)
