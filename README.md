@@ -6,7 +6,7 @@ This page includes various types of portfolios created by Jessie Dima KusumaWard
 
    1. [Walmart Supermarket Sales and Marketing Project](https://jessie-kusumawardhani.github.io/Walmart-Supermarket-Project/?raw=true)
    2. NHTSA Traffic Data Analysis Report ([ID](https://jessie-kusumawardhani.github.io/NHTSA-project/)) ([EN](https://jessie-kusumawardhani.github.io/NHTSA-project-EN/))
-   3. [Airlanes Potential Customer Project](https://jessie-kusumawardhani.github.io/Airlanes-Potential-Customer-Project/)
+   3. [Airline Potential Customer Project](https://jessie-kusumawardhani.github.io/Airline-Potential-Customer-Project/)
    4. [E-Commerce Sales Project](https://docs.google.com/spreadsheets/d/1t24t3Yzd9uZdfpWvfTtokrVwjf4WRGl-/edit#gid=1807259487)
 
 ### Published articles
