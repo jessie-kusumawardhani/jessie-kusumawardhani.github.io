@@ -2,11 +2,12 @@
 
 This page includes various types of portfolios created by Jessie Dima KusumaWardhani. Connect with [me](https://www.linkedin.com/in/jessie-kusumawardhani-6810a714b/)! ☺️
 
-### Data analytics portfolio
+### Data analytics portfolios
 
-   1. NHTSA Traffic Data Analysis Report ([ID](https://jessie-kusumawardhani.github.io/NHTSA-project/)) ([EN](https://jessie-kusumawardhani.github.io/NHTSA-project-EN/))
-   2. [Airlanes Potential Customer Project](https://jessie-kusumawardhani.github.io/Airlanes-Potential-Customer-Project/)
-   3. [E-Commerce Sales Project](https://docs.google.com/spreadsheets/d/1t24t3Yzd9uZdfpWvfTtokrVwjf4WRGl-/edit?usp=sharing&ouid=117932144113641217734&rtpof=true&sd=true)
+   1. [Walmart Supermarket Sales and Marketing Project](https://jessie-kusumawardhani.github.io/Walmart-Supermarket-Project/?raw=true)
+   2. NHTSA Traffic Data Analysis Report ([ID](https://jessie-kusumawardhani.github.io/NHTSA-project/)) ([EN](https://jessie-kusumawardhani.github.io/NHTSA-project-EN/))
+   3. [Airlanes Potential Customer Project](https://jessie-kusumawardhani.github.io/Airlanes-Potential-Customer-Project/)
+   4. [E-Commerce Sales Project](https://docs.google.com/spreadsheets/d/1t24t3Yzd9uZdfpWvfTtokrVwjf4WRGl-/edit#gid=1807259487)
 
 ### Published articles
 
@@ -15,7 +16,7 @@ This page includes various types of portfolios created by Jessie Dima KusumaWard
    3. [Celebrity story](https://brightside.me/articles/40-years-not-letting-go-of-this-michelle-yeohs-journey-to-become-a-hollywood-star-811045/)
    4. [Product recommendation/review](https://brightside.me/articles/upgrade-your-beauty-routine-with-these-12-effective-products-812887/)
 
-### Translations
+### Translation samples
    1. [Humanitarian](https://drive.google.com/file/d/1gnhGNvb_cR-btI8ypNim8wrlcR3CaQuI/view?usp=sharing)
    2. [Video subtitle](https://drive.google.com/file/d/1iVecJivHKjWA1i6lD9kKQ-ExxK-PA6qi/view?usp=sharing)
    3. [Report](https://drive.google.com/file/d/1EjEVOyB1kyZdF_2CFXJwLbiDJu_8RnS5/view?usp=sharing)
