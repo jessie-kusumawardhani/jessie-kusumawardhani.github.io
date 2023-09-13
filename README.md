@@ -4,7 +4,7 @@ This page includes various types of portfolios created by Jessie Dima KusumaWard
 
 ### Data analytics portfolio
 
-   1. NHTSA Traffic Data Analysis Report [ID](https://jessie-kusumawardhani.github.io/NHTSA-project/), [EN](https://jessie-kusumawardhani.github.io/NHTSA-project-EN/)
+   1. NHTSA Traffic Data Analysis Report ([ID](https://jessie-kusumawardhani.github.io/NHTSA-project/)) ([EN](https://jessie-kusumawardhani.github.io/NHTSA-project-EN/))
    2. [Airlanes Potential Customer Project](https://jessie-kusumawardhani.github.io/Airlanes-Potential-Customer-Project/)
    3. [E-Commerce Sales Project](https://docs.google.com/spreadsheets/d/1t24t3Yzd9uZdfpWvfTtokrVwjf4WRGl-/edit?usp=sharing&ouid=117932144113641217734&rtpof=true&sd=true)
 
