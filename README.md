@@ -1,4 +1,4 @@
-# Jessie's Portfolio
+![image](https://github.com/jessie-kusumawardhani/jessie-kusumawardhani.github.io/assets/144194631/5c556a46-5067-4f1f-833a-0d026fdfc3e1)# Jessie's Portfolio
 
 This page includes various types of portfolios created by Jessie Dima KusumaWardhani. Connect with [me](https://www.linkedin.com/in/jessie-kusumawardhani-6810a714b/)! ☺️
 
@@ -20,6 +20,9 @@ This page includes various types of portfolios created by Jessie Dima KusumaWard
    1. [Humanitarian](https://drive.google.com/file/d/1gnhGNvb_cR-btI8ypNim8wrlcR3CaQuI/view?usp=sharing)
    2. [Video subtitle](https://drive.google.com/file/d/1iVecJivHKjWA1i6lD9kKQ-ExxK-PA6qi/view?usp=sharing)
    3. [Report](https://drive.google.com/file/d/1EjEVOyB1kyZdF_2CFXJwLbiDJu_8RnS5/view?usp=sharing)
+
+### Product Design
+   1. [Moon Light Tea](https://www.behance.net/gallery/159871485/Moon-Light-tea)
 
 ### Certifications
    1. [Data Analytics](https://drive.google.com/file/d/1Rqe6hWKBrBtBg8SD1lhPrC6rZj4CEkri/view?usp=sharing)
