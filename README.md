@@ -1,5 +1,3 @@
-![image](https://github.com/jessie-kusumawardhani/jessie-kusumawardhani.github.io/assets/144194631/5c556a46-5067-4f1f-833a-0d026fdfc3e1)# Jessie's Portfolio
-
 This page includes various types of portfolios created by Jessie Dima KusumaWardhani. Connect with [me](https://www.linkedin.com/in/jessie-kusumawardhani-6810a714b/)! ☺️
 
 ### Data analytics portfolios
