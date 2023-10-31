@@ -24,3 +24,4 @@ This page includes various types of portfolios created by Jessie Dima KusumaWard
 ### Certifications
    1. [Data Analytics](https://drive.google.com/file/d/1Rqe6hWKBrBtBg8SD1lhPrC6rZj4CEkri/view?usp=sharing)
    2. [EF SET Certificate](https://www.efset.org/cert/nv3PUt)
+   3. [JLPT N3](https://drive.google.com/file/d/1wTKwmoRu07Mi-ShIyk518i3hSa7Ug-th/view)
