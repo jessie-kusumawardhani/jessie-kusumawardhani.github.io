@@ -14,7 +14,7 @@ This page includes various types of portfolios created by Jessie Dima KusumaWard
 
 ### Translation samples
    1. [Humanitarian](https://drive.google.com/file/d/1WVjrwYfRrbWAFqcviUBGCzRNW1QbE5CY/view?usp=sharing)
-   2. [Video subtitle](https://drive.google.com/file/d/1iVecJivHKjWA1i6lD9kKQ-ExxK-PA6qi/view?usp=sharing)
+   2. [Video subtitling for Ted Talk](https://www.youtube.com/watch?v=zpn6MCmoK0g&pp=ygUSYW4gb2RlIHRvIHRlZCB0YWxr)
    3. [Report](https://drive.google.com/file/d/1EjEVOyB1kyZdF_2CFXJwLbiDJu_8RnS5/view?usp=sharing)
 
 ### Logo designs
