@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
   <body>
       <h1>Jessie's Portfolio</h1>
       <h3><strong><a href="https://jessie-kusumawardhani.github.io/NHTSA-project-EN/">Data analytics</a></strong></h3>
